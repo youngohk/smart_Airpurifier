@@ -1,5 +1,6 @@
-# smart_Airpurifier
- arduino source, appinventor source. lecture
+# smart_Airpurifier (스마트 공기청정기)
+
+ Descrpition : arduino source, appinventor source. lecture
 
  1. Appinventor2 (folder)  
      - source file : new_aircleaner.aia 
