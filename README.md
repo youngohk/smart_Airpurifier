@@ -4,7 +4,7 @@
 
  1. Appinventor2 (folder)  
      - source file : new_aircleaner.aia 
-     - adnroid file : new_aircleaner.apk 
+     - android file : new_aircleaner.apk 
 
 
  2. Arduino source (folder)
