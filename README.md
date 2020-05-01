@@ -1,4 +1,4 @@
-# smart_Airpurifier (스마트 공기청정기)
+# Smart Airpurifier (스마트 공기청정기)
 
  Descrpition : arduino source, appinventor source. lecture
 
