@@ -216,6 +216,8 @@
        
        Serial.print("light:");
 
+   
+
 
 
       // 8X8 LED Matrix 클래스에  일일히 하나씩 LED 위치 등록하여 초기화 
