@@ -1,0 +1,6 @@
+{
+    "sketch": "smart_air_ver6.ino",
+    "board": "arduino:avr:uno",
+    "port": "/dev/tty.usbmodem14101"
+
+}
